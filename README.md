@@ -20,7 +20,7 @@ Ouvrez l'application [ImplicitIntents](https://github.com/khammami/android-funda
 
 Quelle méthode de constructeur utilisez-vous pour créer une intention implicite de lancer une application de caméra?
 
-- [ ] `new Intent()`
+- [ *] `new Intent()`
 - [ ] `new Intent(Context context, Class<?> class)`
 - [ ] `new Intent(String action, Uri uri)`
 - [ ] `new Intent(String action)`
@@ -30,7 +30,7 @@ Quelle méthode de constructeur utilisez-vous pour créer une intention implicit
 Lorsque vous créez un objet Intention implicite, lequel des énoncés suivants est vrai?
 
 - [ ] Ne spécifiez pas l'activité ou autre composant spécifique à lancer.
-- [ ] Ajoutez une action d'intention ou une catégorie d'intention (ou les deux).
+- [ *] Ajoutez une action d'intention ou une catégorie d'intention (ou les deux).
 - [ ] Résolvez l'intention avec le système avant d'appeler `startActivity()` ou `startActivityforResult()`.
 
 ### **Question 3**
